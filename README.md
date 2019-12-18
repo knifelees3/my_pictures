@@ -1,2 +1,3 @@
 # my_pictures
-to store pictures of my blog
+My personal blog need show some pcitures, I try to store the pictures in this repository. 
+
